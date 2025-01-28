@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript: not handling non-numeric input. The `bar` function calls the `foo` function, which assumes its inputs are numbers.  If non-numeric values are passed, it will produce unexpected results. This improved version adds input validation. The bug.js file shows the buggy code, and the bugSolution.js file shows the corrected code.
